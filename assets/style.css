@@ -233,11 +233,17 @@ html {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    
   }
 
   .list-all {
     margin-right: 0 !important;
     margin-bottom: 1rem;
+    width: 100%;
+  }
+
+  #add-paleta{
+    width: 100%;
   }
 
   .options{
@@ -277,11 +283,17 @@ html {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    
   }
 
   .list-all {
     margin-right: 0 !important;
     margin-bottom: 1rem;
+    width: 100%;
+  }
+
+  #add-paleta{
+    width: 100%;
   }
 
   .options{
@@ -326,6 +338,11 @@ html {
   .list-all {
     margin-right: 0 !important;
     margin-bottom: 1rem;
+    width: 100%;
+  }
+
+  #add-paleta{
+    width: 100%;
   }
 
   .options{
